@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenukaGhorpade.
-- 👀 I’m interested in Linux Administration, Cloud, Programming and Data Analytics.
-- 🌱 I’m currently learning DSA in C++ and Python.
+- 👀 I’m interested in Web Development, Linux Administration, and Cloud.
+- 🌱 I’m currently learning DSA in C++ and MERN.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me www.linkedin.com/in/renuka-ghorpade
 
